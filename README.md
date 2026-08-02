@@ -97,13 +97,9 @@ A distributed, proctored exam platform combining Aptitude MCQs, Technical MCQs, 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anujsingh3005&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=4FD1C5&icon_color=4FD1C5" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujsingh3005&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4FD1C5" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujsingh3005&theme=dark&hide_border=true&background=0D1117&ring=4FD1C5&fire=4FD1C5" />
 </p>
+
 
 ---
 
