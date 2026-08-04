@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1000&color=4FD1C5&center=true&vCenter=true&width=650&height=32&lines=Building+systems+that+hold+up+at+scale;S.C.O.P.E.+%E2%80%94+446K+requests+%40+1%2C487+RPS%2C+0%25+failures;React+%7C+Node.js+%7C++%7C+PostgreSQL+%7C+LangGraph" alt="typing svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1000&color=4FD1C5&center=true&vCenter=true&width=650&height=32&lines=Building+systems+that+hold+up+at+scale;S.C.O.P.E.+%E2%80%94+446K+requests+%40+1%2C487+RPS%2C+0%25+failures;React+%7C+Node.js+%7C+PostgreSQL+%7C+LangGraph" alt="typing svg" />
   </a>
 </p>
 
