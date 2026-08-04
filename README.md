@@ -69,7 +69,6 @@ A distributed, proctored exam platform combining Aptitude MCQs, Technical MCQs, 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![](https://img.shields.io/badge/-02569B?style=flat-square&logo=&logoColor=white)
 
 **⚙️ Backend & Infrastructure**
 
