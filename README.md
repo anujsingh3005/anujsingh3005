@@ -45,8 +45,8 @@ A distributed, proctored exam platform combining Aptitude MCQs, Technical MCQs, 
 
 | Project | What it does | Stack |
 |---|---|---|
-| **SG Academy LMS** | Cross-platform LMS with Bayesian-weighted "Bestseller" ranking and auto-issued, verifiable completion certificates | , Node.js, MongoDB, pdf-lib |
-| **XpertPACE MR Tracking** | Field-ops platform for pharma reps — built the Manager Dashboard, backend, and an "Ask AI" engine that turns natural-language queries into comparative analytics charts | , Node.js, MongoDB, Socket/Realtime |
+| **SG Academy LMS** | Cross-platform LMS with Bayesian-weighted "Bestseller" ranking and auto-issued, verifiable completion certificates | Flutter , Node.js, MongoDB, pdf-lib |
+| **XpertPACE MR Tracking** | Field-ops platform for pharma reps — built the Manager Dashboard, backend, and an "Ask AI" engine that turns natural-language queries into comparative analytics charts | Flutter , Node.js, MongoDB, Socket/Realtime |
 
 *Full write-ups (objectives, architecture decisions, and outcomes) on my [portfolio](https://anujsingh3005.github.io).*
 
