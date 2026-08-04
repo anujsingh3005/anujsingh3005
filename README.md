@@ -92,16 +92,6 @@ A distributed, proctored exam platform combining Aptitude MCQs, Technical MCQs, 
 - 👥 **Technical Head**, TCET ACM SIGAI — leading a 30+ member engineering team
 - 🎓 B.Tech, Artificial Intelligence & Machine Learning, TCET — CGPA 9.68/10 (through Sem 6)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujsingh3005&theme=dark&hide_border=true&background=0D1117&ring=4FD1C5&fire=4FD1C5" />
-</p>
-
-
----
 
 <p align="center">
   <sub>Full case studies, verified certificates, and every project detail live on my <a href="https://anujsingh3005.github.io">portfolio</a>.</sub>
