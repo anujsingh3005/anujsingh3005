@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1000&color=4FD1C5&center=true&vCenter=true&width=650&height=32&lines=Building+systems+that+hold+up+at+scale;S.C.O.P.E.+%E2%80%94+446K+requests+%40+1%2C487+RPS%2C+0%25+failures;React+%7C+Node.js+%7C+Flutter+%7C+PostgreSQL+%7C+LangGraph" alt="typing svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1000&color=4FD1C5&center=true&vCenter=true&width=650&height=32&lines=Building+systems+that+hold+up+at+scale;S.C.O.P.E.+%E2%80%94+446K+requests+%40+1%2C487+RPS%2C+0%25+failures;React+%7C+Node.js+%7C++%7C+PostgreSQL+%7C+LangGraph" alt="typing svg" />
   </a>
 </p>
 
@@ -45,8 +45,8 @@ A distributed, proctored exam platform combining Aptitude MCQs, Technical MCQs, 
 
 | Project | What it does | Stack |
 |---|---|---|
-| **SG Academy LMS** | Cross-platform LMS with Bayesian-weighted "Bestseller" ranking and auto-issued, verifiable completion certificates | Flutter, Node.js, MongoDB, pdf-lib |
-| **XpertPACE MR Tracking** | Field-ops platform for pharma reps — built the Manager Dashboard, backend, and an "Ask AI" engine that turns natural-language queries into comparative analytics charts | Flutter, Node.js, MongoDB, Socket/Realtime |
+| **SG Academy LMS** | Cross-platform LMS with Bayesian-weighted "Bestseller" ranking and auto-issued, verifiable completion certificates | , Node.js, MongoDB, pdf-lib |
+| **XpertPACE MR Tracking** | Field-ops platform for pharma reps — built the Manager Dashboard, backend, and an "Ask AI" engine that turns natural-language queries into comparative analytics charts | , Node.js, MongoDB, Socket/Realtime |
 
 *Full write-ups (objectives, architecture decisions, and outcomes) on my [portfolio](https://anujsingh3005.github.io).*
 
@@ -69,7 +69,7 @@ A distributed, proctored exam platform combining Aptitude MCQs, Technical MCQs, 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/-02569B?style=flat-square&logo=&logoColor=white)
 
 **⚙️ Backend & Infrastructure**
 
